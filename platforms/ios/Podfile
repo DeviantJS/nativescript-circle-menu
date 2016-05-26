@@ -1,0 +1,2 @@
+use_frameworks!
+pod 'FoldingCell', '~> 0.8.1'
