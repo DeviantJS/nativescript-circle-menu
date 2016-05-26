@@ -18,7 +18,7 @@ Circle Menu Source for the [iOS Platform](https://github.com/Ramotion/circle-men
 >They were kind enough open source some really great UI / UX please respect the fact it is not their responsibility to investigate or solve issues using this plugin in NativeScript.
 
 Please create issues [here](https://github.com/DeviantJS/nativescript-circle-menu/issues) first and only after it has been properly vetted to not be an {N} specific implementation problem
-should you open an issue in the [FoldingCell GitHub repo](https://github.com/Ramotion/circle-menu/issues). 
+should you open an issue in the [Circle Menu GitHub repo](https://github.com/Ramotion/circle-menu/issues). 
 
 ## Contributing
 

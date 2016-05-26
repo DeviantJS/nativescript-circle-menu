@@ -1,2 +1,2 @@
 use_frameworks!
-pod 'FoldingCell', '~> 0.8.1'
+pod 'CircleMenu', '~> 1.0.0'
