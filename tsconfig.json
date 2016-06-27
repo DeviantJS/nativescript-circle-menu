@@ -4,13 +4,16 @@
         "module": "commonjs",
         "removeComments": true,
         "experimentalDecorators": true,
-        "sourceMap": true
+        "sourceMap": true,
+        "declaration": true,
+        "noEmitOnError": false
     },
     "files": [
       "demo/node_modules/tns-core-modules/tns-core-modules.d.ts",
-      "yourplugin.common.ts",
-      "yourplugin.android.ts", 
-      "yourplugin.ios.ts"
+      "node_modules/tns-platform-declarations/android17.d.ts",
+      "node_modules/tns-platform-declarations/ios.d.ts",
+      "node_modules/tns-platform-declarations/org.nativescript.widgets.d.ts",
+      "nativescript-circle-menu.ios.ts"
     ],
     "compileOnSave": false
 }
