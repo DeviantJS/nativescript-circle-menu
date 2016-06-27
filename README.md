@@ -12,6 +12,12 @@ As [Ramotion](https://ramotion.com/) is as **forward thinking** as they are **su
 
 Circle Menu Source for the [iOS Platform](https://github.com/Ramotion/circle-menu)
 
+## Install
+
+```
+npm i nativescript-circle-menu --save
+```
+
 ## Usage
 
 ```
